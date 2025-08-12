@@ -4,7 +4,7 @@ This document describes the updated data contracts for the endpoint of update di
 
 ## Endpoint Details
 - **URL:** `/payment/settle`
-- **Method:** POST
+- **Method:** PUT
 - **Content-Type:** application/json
 - **Authentication:** Basic Authentication required
 
